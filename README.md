@@ -8,12 +8,21 @@ AtliQ Hardware is a company which sells computer hardware like mouse, CPU, RAMs 
 
 These customers are responsible to sell the purchased items from AtliQ to end consumers.
 
-As per AtliQ’s business model their customers fall under two categories:
-1.	Brick & Mortar (Retailer): Physical stores from where consumer can purchase the products,
-eg: CROMA, Best Buy, Vijay Sales
-2.	E-commerce: Online stores like amazon, flipkart and Snapdeal
+The Key Objectives of this project:
 
-AtliQ also has a different channel through which it does business. It has physical stores just like companies HP and Dell named as ‘AtliQ Exclusive’ and in the online market named ‘AtliQ Hardware e-store’.
+Analyze sales performance across different regions, products, and time periods.
 
-Both AtliQ Exclusive and AtliQ Hardware e-store falls under the channel called ‘Direct’
+Evaluate financial metrics such as revenue, cost, and profit margins.
 
+Cleaning of messy data and create pivot tables for dynamic reporting.
+
+Identify patterns and anomalies in sales and financial data.
+
+Support strategic planning with actionable insights.
+
+Tools Used:
+
+Microsoft Excel (Power Query, PivotTables, Power Pivot, Conditional Formatting, Formulas, DAX)
+
+Outcome:
+A set of Excel-based analysis reports that provide Atliq Hardware with clear, visual insights into its sales and financial data — enabling more informed business decisions.
